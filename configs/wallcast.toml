@@ -1,0 +1,3 @@
+bot_token = "YOUR_BOT_TOKEN"
+chat_id = "YOUR_CHAT_ID"
+database_url = "host=HOST dbname=DBNAME user=USER password=PASSWORD sslmode=disable"
